@@ -1,0 +1,3 @@
+#define AppName "InnoSetupTemplate"
+#define AppVersion "1.0.0"
+#define AppId "InnoSetupTemplate"
